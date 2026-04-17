@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pradeep37415821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pradeep37415821" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pradeep-sharma-98a2142a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pradeep-sharma-98a2142a4/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pradeep-sharma-09klm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pradeep-sharma-98a2142a4/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pradeep_2356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pradeep_2356" height="30" width="40" /></a>
 </p>
 
