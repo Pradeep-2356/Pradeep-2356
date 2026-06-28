@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeep-2356&label=Profile%20views&color=0e75b6&style=flat" alt="pradeep-2356" /> </p>
 
-- 🔭 I’m currently working on MERN Projects(https://triphaven-ghcb.onrender.com/listings)
+- 🔭 I’m currently working on TripHaven Project (https://triphaven-ghcb.onrender.com/listings)
 
 - 🌱 I’m currently learning **MERN**
 
