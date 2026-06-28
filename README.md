@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeep-2356&label=Profile%20views&color=0e75b6&style=flat" alt="pradeep-2356" /> </p>
 
-- 🔭 I’m currently working on [disease prediction system](https://disease-prediction-system-kme3vdfedsy4gegnz7qe64.streamlit.app/)
+- 🔭 I’m currently working on MERN Projects(https://triphaven-ghcb.onrender.com/listings)
 
-- 🌱 I’m currently learning **Python and machine learning**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://pradeep-gamedev-portfolio.netlify.app/](https://pradeep-gamedev-portfolio.netlify.app/)
 
-- 💬 Ask me about **Unity, blender, frontend**
+- 💬 Ask me about **Unity, Game Dev, MERN**
 
 - 📫 How to reach me **ppghsharma2020@gmail.com**
 
